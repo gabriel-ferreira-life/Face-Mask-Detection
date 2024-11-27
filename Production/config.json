@@ -1,0 +1,8 @@
+{
+    "file_id": "1hr5v7QkMxMkxAUcZlz0XapQlEHX5-mjg",
+    "url": "https://drive.google.com/uc?id=file_id",
+    "model_output_path": "../Model",
+    "model_output_file": "yolo11n.pt",
+    "inference_files_path": "../Data/Inference_Files",
+    "prediction_files_path": "../Data/Inference_Files"
+}
