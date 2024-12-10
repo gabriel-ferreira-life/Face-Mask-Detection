@@ -3,6 +3,5 @@
     "url": "https://drive.google.com/uc?id=file_id",
     "model_output_path": "../model",
     "model_output_file": "yolo11n.pt",
-    "inference_files_path": "../data/inference/images",
-    "prediction_files_path": "../data/inference/labels"
+    "base_inference_files_path": "../data/inference"
 }
