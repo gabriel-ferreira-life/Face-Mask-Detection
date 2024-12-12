@@ -33,8 +33,6 @@ def main():
 
     # Execute the selected method
     if method == 1:
-        # Validate image file extension
-        valid_image_extensions = (".jpg", ".jpeg", ".png", ".bmp", ".tiff")
         run_yolo(model_loc, image_input_path, image_output_path)
     elif method == 2:
         run_webcam_smoothly(model_loc)
