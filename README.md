@@ -14,7 +14,8 @@ This project focuses on developing a computer vision system for detecting face m
 
 ## **Usage**
 1. Install packages in the `requirements.txt`
-2. Run the following main.py in the `production` directory:
+2. Open Terminal and run the following main.py in the `production` directory
+3. Follow instructions to choose the type of input (image, video, or webcam input).
 
 ## **Directory Structure**
 Face-Mask-Detection
@@ -54,5 +55,3 @@ Face-Mask-Detection
 
 > ├── README.md \
 > ├── requirements.txt
-
-
