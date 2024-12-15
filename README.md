@@ -59,6 +59,12 @@ Obs.: train, val, test are not available in the remote repository due to its siz
 
 ---
 
+## Full Report
+
+For a detailed breakdown of this project, please refer to the full report in the [PDF file](report/Face_Mask_Detection_With_YOLO11n.pdf).
+
+---
+
 ## **Acknowledgments**
 
 This project would not have been possible without the resources and support provided by the following:
@@ -73,6 +79,3 @@ This project would not have been possible without the resources and support prov
   Google Colab, for providing GPU resources that significantly accelerated the training process.
 
 Special thanks to Professor Huai Mengdi and Aobo Chen for their guidance throughout this project, and to my peers for their valuable feedback and discussions.
-
-
-karina
