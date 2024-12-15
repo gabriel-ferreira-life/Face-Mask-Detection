@@ -12,6 +12,12 @@ This project focuses on developing a computer vision system for detecting face m
 
 ---
 
+## Full Report
+
+For a detailed breakdown of this project, please refer to the full report in the [PDF file](report/Face_Mask_Detection_With_YOLO11n.pdf).
+
+---
+
 ## **Usage**
 1. Install packages in the `requirements.txt`
 2. Open Terminal and run the main.py in the `production` directory
@@ -56,12 +62,6 @@ Obs.: train, val, test are not available in the remote repository due to its siz
 
 > ├── README.md \
 > ├── requirements.txt
-
----
-
-## Full Report
-
-For a detailed breakdown of this project, please refer to the full report in the [PDF file](report/Face_Mask_Detection_With_YOLO11n.pdf).
 
 ---
 
