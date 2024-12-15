@@ -73,3 +73,6 @@ This project would not have been possible without the resources and support prov
   Google Colab, for providing GPU resources that significantly accelerated the training process.
 
 Special thanks to Professor Huai Mengdi and Aobo Chen for their guidance throughout this project, and to my peers for their valuable feedback and discussions.
+
+
+karina
