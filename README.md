@@ -14,8 +14,8 @@ This project focuses on developing a computer vision system for detecting face m
 
 ## **Usage**
 1. Install packages in the `requirements.txt`
-2. Open Terminal and run the following main.py in the `production` directory
-3. Follow instructions to choose the type of input (image, video, or webcam input).
+2. Open Terminal and run the main.py in the `production` directory
+3. Follow the instructions to choose the type of input (image, video, or live webcam video).
 
 ## **Directory Structure**
 Face-Mask-Detection
@@ -27,12 +27,13 @@ Face-Mask-Detection
 > └── **model** # Pretrained and fine-tuned YOLO models
 >> ├── yolo11n.pt 
 
-> └── **data** # Directory for datasets
+> └── **data** # Directory for datasets 
 >> └── **train** # Training data (images and labels)
 
 >> └── **val** # Validation data (images and labels)
 
->> └── **test** # Testing data (images and labels)
+>> └── **test** # Testing data (images and labels) \
+Obs.: train, val, test are not available in the remote repository due to its size. You will need to download it from Kaggle and use the `dataset_configuration.ipynb` to orginize this hierarchy.
 
 >> └── **runs** # Results of each training experiment
 
@@ -55,3 +56,20 @@ Face-Mask-Detection
 
 > ├── README.md \
 > ├── requirements.txt
+
+---
+
+## **Acknowledgments**
+
+This project would not have been possible without the resources and support provided by the following:
+
+- **Dataset**:  
+  The [Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) on Kaggle, which provided the labeled data necessary for training and evaluating the model.
+
+- **Framework**:  
+  The [Ultralytics YOLO](https://github.com/ultralytics/yolov5) framework, which served as the foundation for model training and inference.
+
+- **Environment**:  
+  Google Colab, for providing GPU resources that significantly accelerated the training process.
+
+Special thanks to Professor Huai Mengdi and Aobo Chen for their guidance throughout this project, and to my peers for their valuable feedback and discussions.
